@@ -1,9 +1,3 @@
-
-💫 Description:
-
-Hi there 👋 This is Debershi Mitra's GitHub. You can find all the repositories of the code here that has been done and discussed by me.
-
-
 💫 About Me:
 
 I'm Debershi Mitra, a data scientist passionate about transforming raw data into actionable insights and AI-driven solutions. With a strong foundation in machine learning, predictive analytics, NLP, and generative AI, I thrive at the intersection of technology and business strategy, helping organizations make data-backed decisions that drive impact.
